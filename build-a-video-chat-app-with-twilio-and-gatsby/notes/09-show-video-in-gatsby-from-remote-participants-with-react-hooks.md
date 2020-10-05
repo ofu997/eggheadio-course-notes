@@ -157,4 +157,4 @@ If you wave at the camera, the left version of you should be immediate, the righ
 ## Personal Take
 
 Summary: Using the Twilio library and the tokens we have generated to hook into the remote participants feed. I've had a bit of a problem with these last videos, I don't know if Twilio have updated their API or if I'm doing something wrong but I'm getting a few errors I need to work through. The Github for this course didn't have branches/tags for each lesson which has made this more challenging as the code in the repo differs from that in the video. The alternative is that I've not configured my Twilio API perfectly - maybe this is more likely! Update: I grabbed the Twilio URL from the Github repo and this does seem to have fixed my problems.
-Now that we are grabbing our local video, we need to be able to see and hear our remote participants. This lesson looks at doing that.
+Now that we are grabbing our local video, we need to be able to see and hear our remote participants. This lesson looks at doing that..
